@@ -1,0 +1,10 @@
+{
+  "features": [
+    "grid_position",
+    "quali_time_gap",
+    "constructor_win_rate_at_circuit",
+    "driver_recent_points_avg"
+  ],
+  "target": "is_podium",
+  "using_xgboost": true
+}
